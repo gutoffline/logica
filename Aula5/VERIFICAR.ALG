@@ -1,20 +1,15 @@
 Algoritmo "Verificar"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
-
 Var
    numero : inteiro
-
-
 Inicio
    escreva("Informe um número ")
    leia(numero)
-   
+
    escreval("Número informado: ", numero)
-   
+
    se numero > 10 entao
-      escreva("A")
+      escreva("Número maior que 10")
    senao
-      escreva("B")
+      escreva("Número menor que 10")
    fimse
 Fimalgoritmo
