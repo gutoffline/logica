@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Reajuste"
 // Faça um programa que calcule o reajuste de
 // salário, solicite ao usuário o salário e a
 // porcentagem a ser reajustado.
