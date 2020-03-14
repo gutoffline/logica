@@ -1,4 +1,6 @@
 Algoritmo "Numeros de 1 a 10"
+// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 Var
    numero : inteiro

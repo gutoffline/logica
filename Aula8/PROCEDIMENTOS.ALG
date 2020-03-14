@@ -13,8 +13,8 @@ fimprocedimento
 
 procedimento subtracao(valor1 , valor2 : inteiro)
 inicio
-      escreva("Resultado da Subtração: ")
-      escreval(valor1-valor2)
+   escreva("Resultado da Subtração: ")
+   escreval(valor1-valor2)
 fimprocedimento
 
 Inicio
